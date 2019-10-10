@@ -57,6 +57,7 @@ General Overview
 - [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
 - [NLP progress](https://github.com/sebastianruder/NLP-progress)
 - [Neural Transfer Learning for Natural Language Processing](http://ruder.io/thesis/neural_transfer_learning_for_nlp.pdf) 
+- [CRF](https://lonepatient.top/2018/07/14/CRF-Layer-on-the-Top-of-BiLSTM%20--2.html)
 - NLP Courses
 
   - [CMU: Neural Networks for NLP](http://phontron.com/class/nn4nlp2019/schedule.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) 
